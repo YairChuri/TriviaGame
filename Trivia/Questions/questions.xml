@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<ArrayOfMultiChoiceQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MultiChoiceQuestion>
+    <Question>Why is it traditional to eat apples and honey on Rosh Hashanah?</Question>
+    <A>To symbolize a healthy new year</A>
+    <B>To symbolize a sweet new year</B>
+    <C>The apple symbolizes the earth and the honey symbolizes heaven</C>
+    <D>Moses was said to eat 100 apples on the first day of each new year</D>
+    <ImageTag>Apple.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>Out of all the fruits, why do we dip apples with honey in Rosh Hashanah?</Question>
+    <A>It is delicious</A>
+    <B>Apples were available in Israel during this season</B>
+    <C>Because it says so in the bible</C>
+    <D>Because apples are mentioned in the Adam and Eve story in the story of genesis</D>
+    <ImageTag>ApplesAndHoney.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>In order for the Etrog (citron) to be certified as kosher for use in the ritual of Lulav, what must not fall off?</Question>
+    <A>Pitom (Stem)</A>
+    <B>Good smell</B>
+    <C>Ripeness</C>
+    <D>Leaves</D>
+    <ImageTag>ArbaatHaminim.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>It's customary to eat what on the second night of Rosh Hashanah?</Question>
+    <A>A new fruit you haven't eaten that year</A>
+    <B>A vegetable you normally hate</B>
+    <C>Any fried food</C>
+    <D>Matzah with butter</D>
+    <ImageTag>Avatar.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>Because an etrog has both a taste and a smell, it symbolizes a person who...</Question>
+    <A>knows Torah and performs good deeds</A>
+    <B>knows Torah and is regarded as a scholar</B>
+    <C>knows Torah and is a community leader</C>
+    <D>observes the mitzvot and performs good deeds</D>
+    <ImageTag>Ballarina.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Gold</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>The day of fasting that occurs immediately after Rosh Hashana is called?</Question>
+    <A>Tzom Gedalia</A>
+    <B>Yom Kippur</B>
+    <C>Tishah Beav</C>
+    <D>Taanit Ester</D>
+    <ImageTag>Batman.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>It is a custom for how many people to be honored with an aliyah on Simchat Torah?</Question>
+    <A>All the children in the congregation</A>
+    <B>The whole congregation</B>
+    <C>The Rabbi</C>
+    <D>The kohanim</D>
+    <ImageTag>Chima.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Gold</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>If Rosh Hashanah falls on Shabbat we:</Question>
+    <A>blow the shofar</A>
+    <B>blow a clarinet instead of the shofar</B>
+    <C>don't blow the shofar</C>
+    <D>put the shofar back on the ram</D>
+    <ImageTag>Dobby.jpg</ImageTag>
+    <Answer>C</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>What colour do we wear at Rosh Hashanah?</Question>
+    <A>white</A>
+    <B>cream</B>
+    <C>pale blue</C>
+    <D>dark blue</D>
+    <ImageTag>Gymnastics.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>Traditionally, many people dress in what special way on Yom Kippur?</Question>
+    <A>In all white or light colors, to symbolize purity </A>
+    <B>In all black or dark colors, to symbolize sin </B>
+    <C>In brand new clothes, to symbolize a fresh start </C>
+    <D>In leather, for no apparent reason </D>
+    <ImageTag>Haru.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>When reciting the list of sins, called the Viddui, it is customary for people to</Question>
+    <A>Remain seated</A>
+    <B>To stand and stomp after each sin is read</B>
+    <C>Bow after each sin is read</C>
+    <D>To stand and beat their chests after each sin is read</D>
+    <ImageTag>Mako.jpg</ImageTag>
+    <Answer>D</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>4x4+4x4+4-4x4=</Question>
+    <A>4</A>
+    <B>20</B>
+    <C>14</C>
+    <D>36</D>
+    <ImageTag>Math.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>During Sukkot, one is supposed to welcome Ushpizin into his or her Sukkah. What the heck are Ushpizin?</Question>
+    <A>Ants and other insects</A>
+    <B>Spiritual guests/ ancestors</B>
+    <C>Rabbis in your community</C>
+    <D>Pets</D>
+    <ImageTag>Menions.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>On the afternoon of the first day of Rosh Hashanah, customary to walk to a body of flowing water, say a special prayer, and symbolically empty our pockets into the river, casting off our sins. What is this custom called?</Question>
+    <A>Neila</A>
+    <B>Repentance</B>
+    <C>Tashlich</C>
+    <D>Kol Nidre</D>
+    <ImageTag>MichaelPhelps.jpg</ImageTag>
+    <Answer>C</Answer>
+    <QuestionType>Poop</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>In which Torah passage is the shofar alluded to?</Question>
+    <A>When God remembers Sarah and she becomes pregnant with Isaac</A>
+    <B>The binding of Isaac</B>
+    <C>When Isaac meets Rebecca</C>
+    <D>When Isaac’s two sons are born, Jacob and Esav</D>
+    <ImageTag>Panda.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Gold</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>Which animal can a shofar NOT be made of?</Question>
+    <A>Ibex</A>
+    <B>Ram</B>
+    <C>Bull</C>
+    <D>Gazelle</D>
+    <ImageTag>Piano.jpg</ImageTag>
+    <Answer>C</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>What is the name of the Rosh Hashanah parayer book?</Question>
+    <A>Machzor</A>
+    <B>Sidur</B>
+    <C>Haggadah</C>
+    <D>Shofar</D>
+    <ImageTag>PrayerBook.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>We eat pomegrante on Rosh Hashanah because:</Question>
+    <A>We want our pockets to be filled with money like the pomegranate is filled with seeds</A>
+    <B>We want our mind to be full of Torah like the pomegranate is filled with seeds</B>
+    <C>We want to be filled with mitzvot like the pomegranate is filled with seeds</C>
+    <D>We want to be filled with happiness like the pomegranate is filled with seeds</D>
+    <ImageTag>Rimon.jpg</ImageTag>
+    <Answer>C</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>What special type of challah(s) is traditionally eaten during Rosh Hashanah?</Question>
+    <A>Two challahs that are identical in length, one for each day</A>
+    <B>Challah with chocolate chips, to symbolize the sweetness of life</B>
+    <C>Round challah, to symbolize the eternal cycle of life</C>
+    <D>A challah in the shape of a book, to symbolize God’s books of life and death</D>
+    <ImageTag>RoundChalla.jpg</ImageTag>
+    <Answer>C</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>Which group of foods is customary to eat on Rosh Hashanah?</Question>
+    <A>Pomegrante, carrots, dates, head of a fish</A>
+    <B>Apples, pears, peaches, greaps</B>
+    <C>Pancakes, jelly doughnuts, turkey</C>
+    <D>Pomegrante, dates, peanutes, a large radish</D>
+    <ImageTag>Seder.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>On which first and second day of which Hebrew month is Rosh Hashanah celebrated?</Question>
+    <A>Sivan</A>
+    <B>Tishrei</B>
+    <C>Elul</C>
+    <D>Av</D>
+    <ImageTag>ShanahTova.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>On Rosh Hashanah, everyone is judged by Hashem based on his/her actions during the previous year. God waits until Yom Kippur to seal the book for the year. What three things can a person do to change their judgment for the better?</Question>
+    <A>Prayer, charity and drinking 4 cups of wine</A>
+    <B>Prayer, charity and fasting</B>
+    <C>Repentance, prayer and the blessing of the Kohen</C>
+    <D>Repentance, prayer and charity</D>
+    <ImageTag>SimhatTorah.jpg</ImageTag>
+    <Answer>D</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>The maximum area of a sukkah is ...</Question>
+    <A>about 20 x 20 feet, large enough for a family</A>
+    <B>the size of a typical back yard</B>
+    <C>not larger than one's home</C>
+    <D>as large as you want: there is no maximum area</D>
+    <ImageTag>Surf.jpg</ImageTag>
+    <Answer>D</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>What do some scholars believe Shemini Atzeret was devoted to in Temple times?</Question>
+    <A>Cleaning up the Temple after the previous holiday</A>
+    <B>The ritual cleansing of the altar</B>
+    <C>Religious sacrifices </C>
+    <D>Remembering the giving of the Torah at Mount Sinai</D>
+    <ImageTag>Temple.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>What is the name of the nine short fast blasts we sound with the shofar?</Question>
+    <A>Shevarim</A>
+    <B>Tekia Gedolah</B>
+    <C>Tekia</C>
+    <D>Terua</D>
+    <ImageTag>Terua.jpg</ImageTag>
+    <Answer>D</Answer>
+    <QuestionType>Gold</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>How many hours is the Yom Kippur fast?</Question>
+    <A>27 hours</A>
+    <B>25 hours</B>
+    <C>23 hours</C>
+    <D>24 hours</D>
+    <ImageTag>WesternWall.jpg</ImageTag>
+    <Answer>B</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>What is the final prayer of Yom Kippur called?</Question>
+    <A>Maariv</A>
+    <B>Unesaneh Tokef</B>
+    <C>Kol Nidre</C>
+    <D>Neilah</D>
+    <ImageTag>YomKippurAhead.jpg</ImageTag>
+    <Answer>D</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>Why do we avoid wearing leather shoes on Yom Kippur?</Question>
+    <A>Leather represented luxury in aincient times</A>
+    <B>It is written in the Torah</B>
+    <C>Wearing sneakers ismore comfertable when fasting</C>
+    <D>Leather shoes is made from animal suffering</D>
+    <ImageTag>Yosemite.jpg</ImageTag>
+    <Answer>A</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>What is the name of the prayer recited before the dancing begins on Simhat Torah?</Question>
+    <A>Akdamut</A>
+    <B>Hoshana</B>
+    <C>Atta Horeita</C>
+    <D>Dayenu</D>
+    <ImageTag>YouThinkYouCanDance.jpg</ImageTag>
+    <Answer>C</Answer>
+    <QuestionType>Gold</QuestionType>
+  </MultiChoiceQuestion>
+  <MultiChoiceQuestion>
+    <Question>Over which fruit to we recite: May it be your will...that our foes be consumed</Question>
+    <A>Head of a fish</A>
+    <B>Apple</B>
+    <C>Rimon</C>
+    <D>Date</D>
+    <ImageTag>Zuko.jpg</ImageTag>
+    <Answer>D</Answer>
+    <QuestionType>Regular</QuestionType>
+  </MultiChoiceQuestion>
+</ArrayOfMultiChoiceQuestion>
